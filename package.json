@@ -1,0 +1,8 @@
+﻿{
+    "private":  true,
+    "name":  "zelyx-realtime",
+    "version":  "0.1.0",
+    "scripts":  {
+                    "start":  "echo \u0027start zelyx-realtime\u0027"
+                }
+}
